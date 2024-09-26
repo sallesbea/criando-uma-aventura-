@@ -1,0 +1,17 @@
+body {
+    background-color: #ade9b4;
+    font-family: Arial;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: black;
+    color: white;
+    font-family: arial;
+    border-radius: 20px;
+    height: 25px;
+}
